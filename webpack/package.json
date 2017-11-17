@@ -1,0 +1,18 @@
+{
+  "name": "weback",
+  "version": "1.0.0",
+  "description": "a weback test",
+  "main": "main.js",
+  "scripts": {
+    "test": "a test command"
+  },
+  "author": "liyuming",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "gulp": "^3.9.1",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.16.0",
+    "webpack": "^2.3.2"
+  }
+}
